@@ -80,7 +80,6 @@ jupyter notebook
 
 ## అదనపు వనరులు
 
-- [YouTube ప్లేలిస్ట్](https://youtube.com/playlist?list=...)
 - [ఈబుక్ మెటీరియల్స్](./ebook_content.md)
 - [YouTube కంటెంట్ ప్లాన్](./youtube_content_plan.md)
 
