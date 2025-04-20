@@ -1,0 +1,35 @@
+[tool.poetry]
+name = "langchain-telugu"
+version = "0.1.0"
+description = "LangChain తెలుగు ట్యుటోరియల్ - తెలుగు భాషలో LangChain నేర్చుకోవడానికి సంపూర్ణ గైడ్"
+authors = ["Telugu LangChain Team <telugulangchain@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+langchain = "^0.1.0"
+langchain-openai = "^0.0.5"
+langchain-community = "^0.0.13"
+langchain-core = "^0.1.8"
+openai = "^1.3.0"
+python-dotenv = "^1.0.0"
+chromadb = "^0.4.18"
+tiktoken = "^0.5.1"
+pinecone-client = "^2.2.4"
+sentence-transformers = "^2.2.2"
+huggingface-hub = "^0.19.4"
+transformers = "^4.35.2"
+torch = "^2.1.1"
+streamlit = "^1.28.2"
+langserve = "^0.0.30"
+langsmith = "^0.0.66"
+beautifulsoup4 = "^4.12.2"
+pandas = "^2.1.3"
+numpy = "^1.26.2"
+matplotlib = "^3.8.2"
+jupyter = "^1.0.0"
+ipykernel = "^6.26.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
